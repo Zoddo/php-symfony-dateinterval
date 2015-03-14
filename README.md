@@ -19,7 +19,7 @@ Installation
 Add it to your list of Composer dependencies:
 
 ```sh
-$ composer require zoddo/dateinterval-bundle=1.*
+$ composer require zoddo/dateinterval-bundle=1.* herrera-io/doctrine-dateinterval=dev-master@dev
 ```
 
 Add it to your `app/AppKernel.php` file:

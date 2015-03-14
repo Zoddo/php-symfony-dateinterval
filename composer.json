@@ -17,7 +17,7 @@
     ],
     "require": {
         "doctrine/orm": ">=2.2",
-        "herrera-io/doctrine-dateinterval": ">=1.0,1.0.*@dev",
+        "herrera-io/doctrine-dateinterval": "1.0.*@dev",
         "symfony/symfony": ">=2.1"
     },
     "require-dev": {

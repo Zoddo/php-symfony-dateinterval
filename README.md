@@ -1,8 +1,6 @@
 DateInterval Bundle
 ===================
 
-[![Build Status](https://travis-ci.org/herrera-io/php-symfony-dateinterval.png?branch=master)](https://travis-ci.org/herrera-io/php-symfony-dateinterval)
-
 A Symfony bundle for the DateInterval library for Doctrine.
 
 Summary
@@ -21,7 +19,7 @@ Installation
 Add it to your list of Composer dependencies:
 
 ```sh
-$ composer require herrera-io/dateinterval-bundle=1.*
+$ composer require zoddo/dateinterval-bundle=1.*
 ```
 
 Add it to your `app/AppKernel.php` file:
